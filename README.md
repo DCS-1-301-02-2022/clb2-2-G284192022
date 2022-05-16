@@ -16,7 +16,7 @@
 | 356名 | 16名 |
 ##### キャンパス
 ![Takushoku University](hachioji.jpg "八王子国際キャンパス")
-:sparkles:とても素敵なキャンパスです:sparkles:
+##### :sparkles:とても素敵なキャンパスです:sparkles:
 ###### 拓殖大学HPリンク↓
 [拓殖大学](http://www.takushoku-u.ac.jp "Takushoku University")
 <!-- この部分より上に記述を追加して下のチェックボックスで確認する -->
